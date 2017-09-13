@@ -7,7 +7,7 @@
 
 
 
-Vous pouvez voir [le code source ici](https://github.com/CarlaWatte/work.io/edit/master/index.md)
+Vous pouvez voir [le code source ici](https://github.com/CarlaWatte/Portfolio/edit/master/index.md)
 
 On utilise [Jekyll](https://jekyllrb.com/) 
 
