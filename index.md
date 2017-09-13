@@ -1,4 +1,4 @@
-##  Bienvenue dans antre 
+##  Bienvenue dans mon Antre 
 
 Vous pouvez voir [le code source ici](https://github.com/CarlaWatte/work.io/edit/master/index.md)
 
@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## J'aime bien les chouettes 
 
 ![Image](https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg)
 
