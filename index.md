@@ -8,6 +8,8 @@ Silicone, verre, textile...
 ![Image](https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg)
 
 
+![Test 2](Portfolio/Pres eivp/girl.png)
+
 
 Vous pouvez voir [le code source ici](https://github.com/CarlaWatte/Portfolio/edit/master/index.md)
 
