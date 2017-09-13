@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##  Bienvenue dans antre 
 
 You can use the [editor on GitHub](https://github.com/CarlaWatte/work.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-![Image](https://github.com/CarlaWatte/work.io/blob/master/Pres%20eivp/blueprint.png)
+![Image](https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg)
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CarlaWatte/work.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
