@@ -1,5 +1,7 @@
 ##  Bienvenue dans mon Antre 
 
+Je travaille avec les matériaux qui m'entourent, en ce moment :
+Silicone, verre, textile...
 
 ## J'aime bien les chouettes 
 
