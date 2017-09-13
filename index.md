@@ -3,6 +3,8 @@
 Je travaille avec les matériaux qui m'entourent, en ce moment :
 Silicone, verre, textile...
 
+Et je suis une patates
+
 ## J'aime bien les chouettes 
 
 ![Image](https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg)
