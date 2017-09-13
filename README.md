@@ -1,3 +1,3 @@
 # Carla Wattequant
 ## Artisan - Designer
-[Link](https://carlawatte.github.io/work.io/)
+[Link](https://carlawatte.github.io/Portfolio)
